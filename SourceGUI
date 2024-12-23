@@ -257,7 +257,6 @@ function boxBase:Update()
 							objects[player.Name][i] = nil
 						end
 					end
-				end
 			end
 
     if ESP.ShowInfo then
